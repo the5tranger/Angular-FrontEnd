@@ -1,0 +1,17 @@
+.nav-item-login {
+    position: absolute;
+    left: auto;
+    right: 1%;
+}
+
+.nav-item-register {
+    position: absolute;
+    left: auto;
+    right: 5%;
+}
+
+.nav-item-logout {
+    position: absolute;
+    left: 95%;
+    right: 70%;
+}
